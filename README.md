@@ -1,6 +1,6 @@
 <img src="Mentor.png"> 
 
-# Mentor
+# About
 
 Mentor is the solution for curious students who want to know more about the many professional fields available in the world.
 
